@@ -1,16 +1,11 @@
 ## Hi there 👋
+<br>
+🔭 I’m currently working on DSA
+🌱 I’m currently learning front end development
+👯 I’m looking to collaborate on 
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: check my profile
+😄 Pronouns: he/him
+⚡ Fun fact: 
 
-<!--
-**harshkharb02/harshkharb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning front end development
-- 👯 I’m looking to collaborate on internship
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
