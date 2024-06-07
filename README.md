@@ -7,5 +7,5 @@
 💬 Ask me about ...
 📫 How to reach me: check my profile
 😄 Pronouns: he/him
-⚡ Fun fact: 
+⚡ Fun fact: hello 
 
